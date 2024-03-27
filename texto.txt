@@ -1,2 +1,2 @@
 nddnbasmsmdm.sd
-alumno 1
+alumno 2
